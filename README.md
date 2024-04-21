@@ -12,8 +12,9 @@ Instructions for use:
 
 Installation:
 Clone this repo to any folder of your choice.
-To do so, navigate to your selected directory in Terminal and run the command 
-'''git clone https://github.com/andrewlim1004/GeorgiaTechHazardMap'''
+To do so, navigate to your selected directory in Terminal and run the command
+
+```git clone https://github.com/andrewlim1004/GeorgiaTechHazardMap```
 
 BEFORE USING
 In download.sh, replace 'username' and 'password' with your GitHub account details.
